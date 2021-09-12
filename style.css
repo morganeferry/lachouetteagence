@@ -658,6 +658,7 @@ a {
     max-width: 1000px;
 }
 
+
 .hero-bloc-text {
     font-size: 38px;
 }
@@ -677,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -692,7 +693,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #3a3838!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -775,12 +776,11 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffe1d3!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -789,7 +789,8 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #dcb14a!important;
+    
 }
 
 .ltc-white:hover {
@@ -1039,4 +1040,10 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+
+
+.white{
+    color: white;
 }
